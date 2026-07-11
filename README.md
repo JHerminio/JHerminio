@@ -41,7 +41,7 @@ I design, develop, and analyze things for the web. I bridge the gap between clea
 
 ---
 
-🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/JHerminio/JHerminio/blob/output/github-contribution-grid-snake-dark.svg)
 
