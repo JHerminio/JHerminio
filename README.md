@@ -35,13 +35,15 @@ I design, develop, and analyze things for the web. I bridge the gap between clea
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JHerminio&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JHerminio&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=JHerminio&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=JHerminio&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JHerminio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-### 🌐 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jayson.herminio) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jaysonherminio25/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jbherminio/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaysonberherminio@gmail.com) 
+### 🤝 Let's Connect & Collaborate
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jaysonherminio25/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jbherminio/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaysonberherminio@gmail.com) 
 
 ---
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
