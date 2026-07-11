@@ -46,4 +46,3 @@ I design, develop, and analyze things for the web. I bridge the gap between clea
 
 ---
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
