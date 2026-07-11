@@ -1,7 +1,6 @@
 # Hi there, I'm Jayson 👋 
 
 I design, develop, and analyze things for the web. I bridge the gap between clean, responsive user interfaces and data-driven insights.
-
 <br>
 
 ### 🚀 About Me
