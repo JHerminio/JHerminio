@@ -4,7 +4,7 @@ I design, develop, and analyze things for the web. I bridge the gap between clea
 <br>
 
 ### 🚀 About Me
-- 💼 Front-end | Wordpress Developer.
+- 💼 Front-end | Wordpress Web Developer.
 - 💬 I want to become a Full Stack Web Developer
 - 🔍 Open to networking and collaborating within the frontend development and data industries.
 - 👀 Explore my projects on my [Portfolio](https://jherminio.github.io/myportfolio/).
