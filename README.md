@@ -1,9 +1,10 @@
-# Hi there, I'm Jayson Herminio 👋
+# 👋 Hi, I'm Jayson  
 
 ### 📌 About Me
 - 💼 **Front-end | WordPress Web Developer**
 - 💬 **Goal:** Working toward becoming a **Full Stack Web Developer**
 - 🔍 Open to networking and collaborating within the front-end development and data industries.
+- 🌟 Actively expanding my skills in all areas of technology.
 - 👀 Explore my projects on my [Portfolio](https://jherminio.github.io/myportfolio/)
 
 ---
