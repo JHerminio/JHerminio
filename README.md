@@ -1,31 +1,49 @@
-# 👋 Hi, I'm Jayson  
+<p align="center">
+<img width="1130" height="400" alt="Banner-GitHub" src="https://github.com/user-attachments/assets/3bb837a0-768d-4880-bd3f-59eb65953aa1" />
 
-### 📌 About Me
-- 💼 **Front-end | WordPress Web Developer**
-- 💬 **Goal:** Working toward becoming a **Full Stack Web Developer**
-- 🔍 Open to networking and collaborating within the front-end development and data industries.
-- 🌟 Actively expanding my skills in all areas of technology.
-- 👀 Explore my projects on my [Portfolio](https://jherminio.github.io/myportfolio/)
 
----
-
-### 👨‍💻 Who am I?
-I am a **Front-End & WordPress Developer** with a background in Computer Engineering. I'm passionate about building responsive, high-performing websites and user interfaces using modern web technologies, frameworks, and CMS tools.
-
-I am actively seeking a challenging career opportunity where I can effectively apply my expertise and abilities while making a meaningful impact on the company's achievements. I possess strong technical abilities and am motivated to solve problems using modern web technologies and frameworks.
+  <!-- LinkedIn Badge -->
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbherminio/)">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Gmail Badge -->
+  <a href="mailto:jaysonberherminio@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
+### 🧠 About Me
+```ts
+const jayson: Developer = {
+  name:        "Jayson Herminio",
+  role:        "Front-End Developer | WordPress Developer",
+  location:    "Mandaluyong City, Philippines 🇵🇭",
+  email:       "jaysonberherminio@gmail.com",
 
-### 🔭 What am I currently working on?
-- Crafting custom, high-speed, and responsive web applications with **React**, **TypeScript**, and **Tailwind CSS**.
-- Optimizing web experiences, UI/UX, and SEO performance for WordPress platforms.
-- Continually building and expanding my portfolio projects using modern front-end frameworks.
+  currentFocus: [
+    "Frontend Frameworks & React",
+    "Custom WordPress Development",
+    "Technical SEO & Web Performance Optimization",
+  ],
 
+  expertise: {
+    frontend:   ["HTML", "CSS", "JavaScript", "TypeScript", "Tailwind CSS", "React"],
+    backend:    ["Node.js"],
+    devops:     ["Cloudflare", "Git", "Bitbucket", "GitHub"],
+    cmsAndSeo:  ["WordPress", "Elementor Pro", "Rank Math SEO", "Yoast SEO"],
+    design:     ["Figma", "Canva", "Sketchup"],
+    gameEngines: ["Unity"],
+  },
+
+  openTo:      "Frontend, React, and WordPress development opportunities",
+  funFact:     "I've delivered 100+ fast, responsive websites and fixed over 200 technical SEO issues.",
+};
+```
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Front-End:**
+**Front-End & Languages:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
