@@ -2,8 +2,9 @@
 <img width="1130" height="400" alt="Banner-GitHub" src="https://github.com/user-attachments/assets/3bb837a0-768d-4880-bd3f-59eb65953aa1" />
 
 [![Portfolio Status](https://img.shields.io/website?url=https%3A%2F%2Fjherminio.github.io%2Fmyportfolio%2F&up_message=online&down_message=offline&style=for-the-badge&logo=googlechrome&logoColor=white)](https://jherminio.github.io/myportfolio/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jbherminio/)
+<a href="[https://www.linkedin.com/in/michael-tallada-6b316697/](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jbherminio/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:jaysonberherminio@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
