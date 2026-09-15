@@ -1,7 +1,7 @@
 <div align="center">
 <img width="1130" height="400" alt="Banner-GitHub" src="https://github.com/user-attachments/assets/3bb837a0-768d-4880-bd3f-59eb65953aa1" />
 
-[![Portfolio Status](https://img.shields.io/website?url=https%3A%2F%2Fjherminio.github.io%2Fmyportfolio%2F&up_message=online&down_message=offline&style=for-the-badge&logo=googlechrome&logoColor=white)](https://jherminio.github.io/myportfolio/)
+[![Portfolio Status](https://img.shields.io/website?url=https%3A%2F%2Fjherminio.github.io%2Fmyportfolio%2F&up_message=online&down_message=offline&style=for-the-badge&logo=googlechrome&logoColor=white)](https://jherminio.github.io/jayson-portfolio-react/)
 
 <a href="https://www.linkedin.com/in/jbherminio/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
