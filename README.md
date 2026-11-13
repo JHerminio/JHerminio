@@ -37,7 +37,7 @@ const jayson: Developer = {
   },
 
   openTo:      "Frontend, React, and WordPress development opportunities",
-  funFact:     "I've delivered 100+ fast, responsive websites and fixed over 200 technical SEO issues.",
+  funFact:     "I've delivered 100+ fast, responsive websites and fixed over 100 technical SEO issues.",
 };
 ```
 ---
