@@ -15,29 +15,29 @@
 ### 🧠 About Me
 ```ts
 const jayson: Developer = {
-  name:        "Jayson Herminio",
-  role:        "Front-End Developer | WordPress Developer",
-  location:    "Mandaluyong City, Philippines 🇵🇭",
-  email:       "jaysonberherminio@gmail.com",
+  name:         "Jayson Herminio",
+  role:         "Front-End Developer | WordPress Developer",
+  location:     "Mandaluyong City, Philippines 🇵🇭",
+  email:        "jaysonberherminio@gmail.com",
 
   currentFocus: [
-    "Frontend Frameworks & React",
-    "Custom WordPress Development",
-    "Technical SEO & Web Performance Optimization",
+                "Frontend Frameworks & React",
+                "Custom WordPress Development",
+                "Technical SEO & Web Performance Optimization",
   ],
 
   expertise: {
     frontend:   ["HTML", "CSS", "JavaScript", "TypeScript", "Tailwind CSS", "React"],
     backend:    ["Node.js"],
-    mobile:    ["Flutter", "React Native", "Kotlin", "Android"],
+    mobile:     ["Flutter", "React Native", "Kotlin", "Android"],
     devops:     ["Cloudflare", "Git", "Bitbucket", "GitHub"],
     cmsAndSeo:  ["WordPress", "Elementor Pro", "Rank Math SEO", "Yoast SEO"],
     design:     ["Figma", "Canva", "Sketchup"],
     gameEngines: ["Unity"],
   },
 
-  openTo:      "Frontend, React, and WordPress development opportunities",
-  funFact:     "I've delivered 100+ fast, responsive websites and fixed over 100 technical SEO issues.",
+  openTo:       "Frontend, React, and WordPress development opportunities",
+  funFact:      "I've delivered 100+ fast, responsive websites and fixed over 100 technical SEO issues.",
 };
 ```
 ---
